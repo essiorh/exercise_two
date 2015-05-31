@@ -11,7 +11,7 @@
         android:layout_height="@dimen/height_our_elems"
         />
     <TextView
-        android:id="@+id/histori"
+        android:id="@+id/history"
         android:text="@string/hello_world" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
